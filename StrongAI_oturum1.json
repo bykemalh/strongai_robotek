@@ -1,0 +1,667 @@
+{
+  "yarisma": "robotek",
+  "takim_adi": "StrongAI",
+  "takim_id": "team_56",
+  "tahminler": [
+    {
+      "id": "voice_106",
+      "tahmin_etiketi": "person9"
+    },
+    {
+      "id": "voice_117",
+      "tahmin_etiketi": "person4"
+    },
+    {
+      "id": "voice_129",
+      "tahmin_etiketi": "person7"
+    },
+    {
+      "id": "voice_136",
+      "tahmin_etiketi": "person4"
+    },
+    {
+      "id": "voice_141",
+      "tahmin_etiketi": "person6"
+    },
+    {
+      "id": "voice_15",
+      "tahmin_etiketi": "person9"
+    },
+    {
+      "id": "voice_150",
+      "tahmin_etiketi": "person10"
+    },
+    {
+      "id": "voice_164",
+      "tahmin_etiketi": "person4"
+    },
+    {
+      "id": "voice_165",
+      "tahmin_etiketi": "person4"
+    },
+    {
+      "id": "voice_169",
+      "tahmin_etiketi": "person3"
+    },
+    {
+      "id": "voice_171",
+      "tahmin_etiketi": "person9"
+    },
+    {
+      "id": "voice_175",
+      "tahmin_etiketi": "person3"
+    },
+    {
+      "id": "voice_194",
+      "tahmin_etiketi": "person9"
+    },
+    {
+      "id": "voice_199",
+      "tahmin_etiketi": "person4"
+    },
+    {
+      "id": "voice_201",
+      "tahmin_etiketi": "person9"
+    },
+    {
+      "id": "voice_205",
+      "tahmin_etiketi": "person9"
+    },
+    {
+      "id": "voice_214",
+      "tahmin_etiketi": "person2"
+    },
+    {
+      "id": "voice_226",
+      "tahmin_etiketi": "person2"
+    },
+    {
+      "id": "voice_232",
+      "tahmin_etiketi": "person9"
+    },
+    {
+      "id": "voice_24",
+      "tahmin_etiketi": "person3"
+    },
+    {
+      "id": "voice_262",
+      "tahmin_etiketi": "person4"
+    },
+    {
+      "id": "voice_265",
+      "tahmin_etiketi": "person2"
+    },
+    {
+      "id": "voice_267",
+      "tahmin_etiketi": "person3"
+    },
+    {
+      "id": "voice_27",
+      "tahmin_etiketi": "person5"
+    },
+    {
+      "id": "voice_274",
+      "tahmin_etiketi": "person9"
+    },
+    {
+      "id": "voice_277",
+      "tahmin_etiketi": "person7"
+    },
+    {
+      "id": "voice_28",
+      "tahmin_etiketi": "person2"
+    },
+    {
+      "id": "voice_283",
+      "tahmin_etiketi": "person5"
+    },
+    {
+      "id": "voice_285",
+      "tahmin_etiketi": "person4"
+    },
+    {
+      "id": "voice_287",
+      "tahmin_etiketi": "person5"
+    },
+    {
+      "id": "voice_296",
+      "tahmin_etiketi": "person3"
+    },
+    {
+      "id": "voice_307",
+      "tahmin_etiketi": "person2"
+    },
+    {
+      "id": "voice_309",
+      "tahmin_etiketi": "person10"
+    },
+    {
+      "id": "voice_31",
+      "tahmin_etiketi": "person10"
+    },
+    {
+      "id": "voice_315",
+      "tahmin_etiketi": "person6"
+    },
+    {
+      "id": "voice_316",
+      "tahmin_etiketi": "person6"
+    },
+    {
+      "id": "voice_318",
+      "tahmin_etiketi": "person3"
+    },
+    {
+      "id": "voice_319",
+      "tahmin_etiketi": "person1"
+    },
+    {
+      "id": "voice_323",
+      "tahmin_etiketi": "person2"
+    },
+    {
+      "id": "voice_324",
+      "tahmin_etiketi": "person5"
+    },
+    {
+      "id": "voice_326",
+      "tahmin_etiketi": "person2"
+    },
+    {
+      "id": "voice_330",
+      "tahmin_etiketi": "person2"
+    },
+    {
+      "id": "voice_34",
+      "tahmin_etiketi": "person2"
+    },
+    {
+      "id": "voice_354",
+      "tahmin_etiketi": "person5"
+    },
+    {
+      "id": "voice_359",
+      "tahmin_etiketi": "person7"
+    },
+    {
+      "id": "voice_360",
+      "tahmin_etiketi": "person3"
+    },
+    {
+      "id": "voice_375",
+      "tahmin_etiketi": "person1"
+    },
+    {
+      "id": "voice_382",
+      "tahmin_etiketi": "person10"
+    },
+    {
+      "id": "voice_386",
+      "tahmin_etiketi": "person6"
+    },
+    {
+      "id": "voice_392",
+      "tahmin_etiketi": "person5"
+    },
+    {
+      "id": "voice_393",
+      "tahmin_etiketi": "person4"
+    },
+    {
+      "id": "voice_41",
+      "tahmin_etiketi": "person8"
+    },
+    {
+      "id": "voice_411",
+      "tahmin_etiketi": "person3"
+    },
+    {
+      "id": "voice_423",
+      "tahmin_etiketi": "person6"
+    },
+    {
+      "id": "voice_438",
+      "tahmin_etiketi": "person5"
+    },
+    {
+      "id": "voice_439",
+      "tahmin_etiketi": "person7"
+    },
+    {
+      "id": "voice_440",
+      "tahmin_etiketi": "person9"
+    },
+    {
+      "id": "voice_444",
+      "tahmin_etiketi": "person6"
+    },
+    {
+      "id": "voice_447",
+      "tahmin_etiketi": "person4"
+    },
+    {
+      "id": "voice_461",
+      "tahmin_etiketi": "person5"
+    },
+    {
+      "id": "voice_462",
+      "tahmin_etiketi": "person9"
+    },
+    {
+      "id": "voice_469",
+      "tahmin_etiketi": "person7"
+    },
+    {
+      "id": "voice_470",
+      "tahmin_etiketi": "person1"
+    },
+    {
+      "id": "voice_478",
+      "tahmin_etiketi": "person4"
+    },
+    {
+      "id": "voice_481",
+      "tahmin_etiketi": "person9"
+    },
+    {
+      "id": "voice_486",
+      "tahmin_etiketi": "person1"
+    },
+    {
+      "id": "voice_487",
+      "tahmin_etiketi": "person9"
+    },
+    {
+      "id": "voice_49",
+      "tahmin_etiketi": "person2"
+    },
+    {
+      "id": "voice_491",
+      "tahmin_etiketi": "person5"
+    },
+    {
+      "id": "voice_494",
+      "tahmin_etiketi": "person7"
+    },
+    {
+      "id": "voice_497",
+      "tahmin_etiketi": "person8"
+    },
+    {
+      "id": "voice_498",
+      "tahmin_etiketi": "person6"
+    },
+    {
+      "id": "voice_5",
+      "tahmin_etiketi": "person5"
+    },
+    {
+      "id": "voice_505",
+      "tahmin_etiketi": "person4"
+    },
+    {
+      "id": "voice_522",
+      "tahmin_etiketi": "person2"
+    },
+    {
+      "id": "voice_531",
+      "tahmin_etiketi": "person7"
+    },
+    {
+      "id": "voice_533",
+      "tahmin_etiketi": "person9"
+    },
+    {
+      "id": "voice_544",
+      "tahmin_etiketi": "person1"
+    },
+    {
+      "id": "voice_545",
+      "tahmin_etiketi": "person3"
+    },
+    {
+      "id": "voice_564",
+      "tahmin_etiketi": "person10"
+    },
+    {
+      "id": "voice_565",
+      "tahmin_etiketi": "person2"
+    },
+    {
+      "id": "voice_569",
+      "tahmin_etiketi": "person3"
+    },
+    {
+      "id": "voice_572",
+      "tahmin_etiketi": "person4"
+    },
+    {
+      "id": "voice_576",
+      "tahmin_etiketi": "person5"
+    },
+    {
+      "id": "voice_578",
+      "tahmin_etiketi": "person7"
+    },
+    {
+      "id": "voice_581",
+      "tahmin_etiketi": "person4"
+    },
+    {
+      "id": "voice_59",
+      "tahmin_etiketi": "person1"
+    },
+    {
+      "id": "voice_599",
+      "tahmin_etiketi": "person6"
+    },
+    {
+      "id": "voice_600",
+      "tahmin_etiketi": "person4"
+    },
+    {
+      "id": "voice_605",
+      "tahmin_etiketi": "person7"
+    },
+    {
+      "id": "voice_606",
+      "tahmin_etiketi": "person3"
+    },
+    {
+      "id": "voice_607",
+      "tahmin_etiketi": "person1"
+    },
+    {
+      "id": "voice_609",
+      "tahmin_etiketi": "person1"
+    },
+    {
+      "id": "voice_611",
+      "tahmin_etiketi": "person5"
+    },
+    {
+      "id": "voice_615",
+      "tahmin_etiketi": "person5"
+    },
+    {
+      "id": "voice_628",
+      "tahmin_etiketi": "person7"
+    },
+    {
+      "id": "voice_632",
+      "tahmin_etiketi": "person6"
+    },
+    {
+      "id": "voice_636",
+      "tahmin_etiketi": "person1"
+    },
+    {
+      "id": "voice_643",
+      "tahmin_etiketi": "person7"
+    },
+    {
+      "id": "voice_660",
+      "tahmin_etiketi": "person6"
+    },
+    {
+      "id": "voice_668",
+      "tahmin_etiketi": "person6"
+    },
+    {
+      "id": "voice_670",
+      "tahmin_etiketi": "person10"
+    },
+    {
+      "id": "voice_680",
+      "tahmin_etiketi": "person5"
+    },
+    {
+      "id": "voice_685",
+      "tahmin_etiketi": "person8"
+    },
+    {
+      "id": "voice_688",
+      "tahmin_etiketi": "person4"
+    },
+    {
+      "id": "voice_700",
+      "tahmin_etiketi": "person2"
+    },
+    {
+      "id": "voice_71",
+      "tahmin_etiketi": "person3"
+    },
+    {
+      "id": "voice_717",
+      "tahmin_etiketi": "person9"
+    },
+    {
+      "id": "voice_718",
+      "tahmin_etiketi": "person6"
+    },
+    {
+      "id": "voice_719",
+      "tahmin_etiketi": "person2"
+    },
+    {
+      "id": "voice_725",
+      "tahmin_etiketi": "person6"
+    },
+    {
+      "id": "voice_728",
+      "tahmin_etiketi": "person2"
+    },
+    {
+      "id": "voice_741",
+      "tahmin_etiketi": "person5"
+    },
+    {
+      "id": "voice_743",
+      "tahmin_etiketi": "person4"
+    },
+    {
+      "id": "voice_75",
+      "tahmin_etiketi": "person3"
+    },
+    {
+      "id": "voice_760",
+      "tahmin_etiketi": "person1"
+    },
+    {
+      "id": "voice_765",
+      "tahmin_etiketi": "person1"
+    },
+    {
+      "id": "voice_770",
+      "tahmin_etiketi": "person4"
+    },
+    {
+      "id": "voice_792",
+      "tahmin_etiketi": "person3"
+    },
+    {
+      "id": "voice_794",
+      "tahmin_etiketi": "person1"
+    },
+    {
+      "id": "voice_796",
+      "tahmin_etiketi": "person6"
+    },
+    {
+      "id": "voice_797",
+      "tahmin_etiketi": "person8"
+    },
+    {
+      "id": "voice_800",
+      "tahmin_etiketi": "person2"
+    },
+    {
+      "id": "voice_802",
+      "tahmin_etiketi": "person1"
+    },
+    {
+      "id": "voice_806",
+      "tahmin_etiketi": "person10"
+    },
+    {
+      "id": "voice_81",
+      "tahmin_etiketi": "person3"
+    },
+    {
+      "id": "voice_812",
+      "tahmin_etiketi": "person8"
+    },
+    {
+      "id": "voice_818",
+      "tahmin_etiketi": "person9"
+    },
+    {
+      "id": "voice_82",
+      "tahmin_etiketi": "person7"
+    },
+    {
+      "id": "voice_826",
+      "tahmin_etiketi": "person2"
+    },
+    {
+      "id": "voice_828",
+      "tahmin_etiketi": "person5"
+    },
+    {
+      "id": "voice_833",
+      "tahmin_etiketi": "person7"
+    },
+    {
+      "id": "voice_834",
+      "tahmin_etiketi": "person9"
+    },
+    {
+      "id": "voice_835",
+      "tahmin_etiketi": "person7"
+    },
+    {
+      "id": "voice_846",
+      "tahmin_etiketi": "person1"
+    },
+    {
+      "id": "voice_850",
+      "tahmin_etiketi": "person9"
+    },
+    {
+      "id": "voice_851",
+      "tahmin_etiketi": "person1"
+    },
+    {
+      "id": "voice_855",
+      "tahmin_etiketi": "person2"
+    },
+    {
+      "id": "voice_857",
+      "tahmin_etiketi": "person6"
+    },
+    {
+      "id": "voice_862",
+      "tahmin_etiketi": "person6"
+    },
+    {
+      "id": "voice_863",
+      "tahmin_etiketi": "person4"
+    },
+    {
+      "id": "voice_865",
+      "tahmin_etiketi": "person9"
+    },
+    {
+      "id": "voice_872",
+      "tahmin_etiketi": "person7"
+    },
+    {
+      "id": "voice_877",
+      "tahmin_etiketi": "person10"
+    },
+    {
+      "id": "voice_884",
+      "tahmin_etiketi": "person7"
+    },
+    {
+      "id": "voice_893",
+      "tahmin_etiketi": "person10"
+    },
+    {
+      "id": "voice_895",
+      "tahmin_etiketi": "person4"
+    },
+    {
+      "id": "voice_899",
+      "tahmin_etiketi": "person5"
+    },
+    {
+      "id": "voice_904",
+      "tahmin_etiketi": "person8"
+    },
+    {
+      "id": "voice_917",
+      "tahmin_etiketi": "person10"
+    },
+    {
+      "id": "voice_919",
+      "tahmin_etiketi": "person7"
+    },
+    {
+      "id": "voice_932",
+      "tahmin_etiketi": "person6"
+    },
+    {
+      "id": "voice_934",
+      "tahmin_etiketi": "person1"
+    },
+    {
+      "id": "voice_936",
+      "tahmin_etiketi": "person2"
+    },
+    {
+      "id": "voice_938",
+      "tahmin_etiketi": "person8"
+    },
+    {
+      "id": "voice_94",
+      "tahmin_etiketi": "person4"
+    },
+    {
+      "id": "voice_951",
+      "tahmin_etiketi": "person2"
+    },
+    {
+      "id": "voice_960",
+      "tahmin_etiketi": "person7"
+    },
+    {
+      "id": "voice_974",
+      "tahmin_etiketi": "person10"
+    },
+    {
+      "id": "voice_982",
+      "tahmin_etiketi": "person1"
+    },
+    {
+      "id": "voice_984",
+      "tahmin_etiketi": "person6"
+    },
+    {
+      "id": "voice_988",
+      "tahmin_etiketi": "person5"
+    },
+    {
+      "id": "voice_99",
+      "tahmin_etiketi": "person7"
+    },
+    {
+      "id": "voice_990",
+      "tahmin_etiketi": "person6"
+    },
+    {
+      "id": "voice_998",
+      "tahmin_etiketi": "person9"
+    }
+  ]
+}

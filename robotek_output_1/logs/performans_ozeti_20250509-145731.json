@@ -1,0 +1,11 @@
+{
+    "toplam_program_suresi": 224.75965929031372,
+    "egitim_suresi": 211.495361328125,
+    "accuracy": 100.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "f1_macro": 1.0,
+    "tahmin_suresi": 0.08794608024450448,
+    "timestamp": "2025-05-09 14:57:34"
+}

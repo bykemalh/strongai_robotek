@@ -1,0 +1,11 @@
+{
+  "yarisma": "robotek",
+  "takim_adi": "StrongAI",
+  "takim_id": "team_56",
+  "tahminler": [
+    {
+      "id": "voice524",
+      "tahmin_etiketi": "person2"
+    }
+  ]
+}
