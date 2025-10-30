@@ -579,6 +579,31 @@ Robotek Latest/
 
 ---
 
+## Lisans ve Açık Kaynak
+
+Bu proje **tamamen açık kaynak** olarak geliştirilmiştir. Proje kodu, modeli, veri işleme pipeline'ı ve tüm teknik dokümantasyon **MIT Lisansı** altında yayınlanmıştır.
+
+### Neler Serbesttir?
+
+✅ **Öğrenme için:** Akademik çalışmalar, araştırmalar, öğrenci projeleri  
+✅ **Test için:** Sistemin performansını test etme, deneme yapmalar  
+✅ **Geliştirme için:** Kodu fork etme, değiştirme, iyileştirme  
+✅ **Ticari Kullanım:** Proje üzerinde ticari ürün geliştirme  
+✅ **Dağıtım:** Kodu başkalarıyla paylaşma, farklı platformlarda kullanma  
+
+### Koşul
+
+Tek koşul: Projeyi kullanırken veya dağıtırken:
+- Orijinal telif hakkı ve lisans bilgisini muhafaza etmek
+- Bu başarı hikâyesine referans vermek (istektir, şart değildir)
+
+### GitHub Deposu
+
+Tüm kod, model ve dokümantasyon GitHub'da mevcuttur:  
+🔗 **[StrongAI - Speaker Recognition](https://github.com/bykemalh/robotek_speaker_recognition)**
+
+---
+
 **© 2025 Kemal Hafızoğlu & Enes Duman | StrongAI | SUBU Bilgisayar Programcılığı**
 
 *"Yapay zeka sadece bilgisayarların akıllı olması değil, bizim sorunları daha akıllı çözmesidir."*
