@@ -303,26 +303,6 @@ TOP 6 FAKTÖRü SIRALAMA:
 
 ---
 
-## � Blog Yazısı Hakkında
-
-**BLOG_YAZISI.md** dosyası şunları içerir:
-
-- ✅ **Giriş:** Başarı hikayesi ve motivasyon
-- ✅ **Proje Özeti:** Problem tanımı ve teknik zorluklar
-- ✅ **Veri Seti:** MFCC ses işleme detayları
-- ✅ **Model Mimarisi:** ResNet mimarisi ve kalıntı blokları
-- ✅ **Veri Artırma:** 4 augmentation tekniği detaylı
-- ✅ **Eğitim Stratejisi:** Optimizer, scheduler, loss function
-- ✅ **Sonuçlar:** %100 doğruluk, test metrikleri
-- ✅ **Başarı Faktörleri:** Top 6 etmen analizi
-- ✅ **Sistem Mimarisi:** Pipeline ve diyagramlar
-- ✅ **Öğrenilen Dersler:** Best practices ve insights
-- ✅ **Referanslar:** Bilimsel kaynaklar
-
-**Okuma Süresi:** ~20 dakika | **Kelime:** 4,500+ | **Satır:** 602
-
----
-
 ## � Hızlı Başlangıç
 
 ### 1. Blog Yazısını Oku
